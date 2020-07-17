@@ -1,6 +1,6 @@
 # 语音识别api
 ## 百度语音api使用：[语音识别api完整版](https://github.com/Pjx759/API_Final/blob/master/codes/ipynb%E6%96%87%E4%BB%B6/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%ABapi.ipynb)
-* 使用百度语音极速版api
+* 使用百度语音极速版api [语音文件](https://github.com/Pjx759/API_2020/blob/master/Finall/wanfanhou.m4a)
 > 百度语音识别极速版可以识别m4a文件更加方便后台调取语音文件
 ## 代码块
 * 调用模块
