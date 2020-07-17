@@ -1,5 +1,6 @@
 # 通用票据识别api
-* 使用百度通用票据识别api识别用户上传的开药单照片
+* 使用百度通用票据识别api识别用户上传的开药单照片 [示例图片](https://github.com/Pjx759/API_2020/blob/master/Finall/piaoju1.jpg)
+![示例图片](https://github.com/Pjx759/API_2020/blob/master/Finall/piaoju1.jpg)
 ## 代码块
 * 调用模块
 ```
