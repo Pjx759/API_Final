@@ -103,3 +103,5 @@ def wenzi(image)->dict:
 ```
 
 * 百度通用票据识别可以准确识别出用户上传的开药单照片，帮助用户可以快速提取出需要的数据
+* 完整版代码：[通用票据识别](https://github.com/Pjx759/API_Final/blob/master/codes/ipynb%E6%96%87%E4%BB%B6/%E9%80%9A%E7%94%A8%E7%A5%A8%E6%8D%AE%E8%AF%86%E5%88%ABapi%20(1).ipynb)
+
