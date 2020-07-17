@@ -34,6 +34,8 @@
 
 ## 原型设计
 ### 原型-1、产品流程图
+* 智能加值部分流程图
+![产品流程图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E4%BA%A7%E5%93%81%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 ### 原型-2、数据流程图
 ![原型数据流程图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 原型-3、交互界面设计
