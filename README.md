@@ -1,5 +1,4 @@
 # 药记住
-* PRD文档初稿
 
 
 |  发布日期 | 2020-06-18 |
@@ -30,15 +29,15 @@
 | 优先级	| 用户需求	| 功能实现 | API价值 | 原因 |
 | :--: | :--: | :--: | :--: | :--: |
 | 重要	|用户需要了解自己药物的剂量和频次|[通用票据识别](https://ai.baidu.com/tech/ocr_receipts/receipt) 	| 将票据图片转化为文字信息，可以快捷输出数据 | 开药单的数据繁多而用户需要的数据只是其中的一小部分 |
-| 次重要	|可以便捷输入自己的数据|[短语音识别](https://ai.baidu.com/tech/speech/asr);[关键词提取](https://www.xfyun.cn/services/keyword-extraction)| 实现用户输入语音可以输出文字信息，并且提取信息给用户 | 用户在任何时间都可以输入提醒数据 |  
-| 一般重要	|可以便捷输入自己的数据|[短语音识别](https://ai.baidu.com/tech/speech/asr);[关键词提取](https://www.xfyun.cn/services/keyword-extraction)| 实现用户输入语音可以输出文字信息，并且提取信息给用户 | 用户在任何时间都可以输入提醒数据 |
+| 次重要	|可以便捷输入自己的数据|[短语音识别](https://ai.baidu.com/tech/speech/asr)| 实现用户输入语音可以输出文字信息，并且提取信息给用户 | 用户在任何时间都可以输入提醒数据 |  
+| 一般重要	|提取用户输入的数据，显示用户需要的重点|[关键词提取](https://www.xfyun.cn/services/keyword-extraction)| 通过用户输入语音输出文字的信息，提取关键信息给用户 | 用户输入的信息并不是全部都很重要 |
 
 ## 原型设计
 ### 原型-1、产品流程图
 ### 原型-2、数据流程图
 ![原型数据流程图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 原型-3、交互界面设计
-
+* [原型交互展示](https://modao.cc/app/c0f063708635bcbed0bde59d2c79ef82f11b0232?simulator_type=device&sticky)
 
 
 ## API输出、入展示
