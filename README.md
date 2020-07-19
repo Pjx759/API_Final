@@ -98,5 +98,9 @@
   * 输入：文字信息； 输出：关键词文字信息
 ### 三、API风险说明
 * 百度语音识别：不同文件输出结果存在一定差异，经过对比，m4a文件的准确度更高
+  * 输入其他格式文件
+  ![其他格式图片](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6.png)
+  * 输出错误结果
+  ![错误结果展示](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E8%BE%93%E5%87%BA%E9%94%99%E8%AF%AF%E6%95%B0%E6%8D%AE.png)
 * 关键词提取：过于简单的句子可能无法提取更关键的信息点
 
