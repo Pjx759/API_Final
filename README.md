@@ -93,10 +93,13 @@
 * [原型交互展示](https://modao.cc/app/c0f063708635bcbed0bde59d2c79ef82f11b0232?simulator_type=device&sticky)
 ### 界面流程图
 * 主页功能选择
+![主页流程说明](https://github.com/Pjx759/API_Final/blob/master/photos/%E4%B8%BB%E9%A1%B5%E5%88%86%E6%9E%901.png)
 * 票据识别交互界面流程
+![票据识别界面流程图说明](https://github.com/Pjx759/API_Final/blob/master/photos/%E9%80%9A%E7%94%A8%E7%A5%A8%E6%8D%AE%E8%AF%86%E5%88%AB%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 * 语音输入识别交互界面流程
+![语音识别界面流程图说明](https://github.com/Pjx759/API_Final/blob/master/photos/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%B5%81%E7%A8%8B.png)
 * 关键词提取交互界面流程
-
+![关键词识别界面流程图说明](https://github.com/Pjx759/API_Final/blob/master/photos/%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%86%E5%88%AB1.png)
 ## API输出、入展示
 ### 一、API数据输入输出
 1. 通用票据识别
