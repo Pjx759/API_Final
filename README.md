@@ -104,6 +104,7 @@
 ### 一、API数据输入输出
 1. 通用票据识别
   * 识别用户输入的开药单中的是药品信息：[票据识别api说明](https://github.com/Pjx759/API_Final/blob/master/codes/%E9%80%9A%E7%94%A8%E7%A5%A8%E6%8D%AE%E8%AF%86%E5%88%ABapi.md)
+> [票据示例](https://github.com/Pjx759/API_Final/blob/master/photos/piaoju1.jpg)
 2. 语音识别
   * 识别用户即时输入的语音信息：[语音识别api说明](https://github.com/Pjx759/API_Final/blob/master/codes/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%ABapi.md)
 3. 关键词提取
