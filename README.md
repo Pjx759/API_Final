@@ -94,9 +94,9 @@
 ![产品流程图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E4%BA%A7%E5%93%81%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)  
 ### 二、框架流程图
 ![框架图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E4%BA%A7%E5%93%81%E6%A1%86%E6%9E%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%20(1).jpg)
-### 三、、数据流程图
+### 三、数据流程图
 ![原型数据流程图](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-### 四、、交互界面设计
+### 四、交互界面设计
 * [原型交互展示](https://modao.cc/app/c0f063708635bcbed0bde59d2c79ef82f11b0232?simulator_type=device&sticky)
 ### 五、界面流程图
 * 主页功能选择
@@ -166,3 +166,4 @@
 
 
 > PRD文档中图片若不能正常显示，麻烦多刷新几次
+> 或[gitee仓库PRD文档](https://gitee.com/pjx759/API_Fianl/blob/master/README.md)
