@@ -130,7 +130,8 @@
   * 输出错误结果
   ![错误结果展示](https://github.com/Pjx759/API_2020/blob/master/Finall/photos/%E8%BE%93%E5%87%BA%E9%94%99%E8%AF%AF%E6%95%B0%E6%8D%AE.png)
 * 关键词提取：过于简单的句子可能无法提取更关键的信息点
-
+  * 关键词过于简单举例![关键词错误举例图片](https://github.com/Pjx759/API_Final/blob/master/photos/%E5%85%B3%E9%94%AE%E8%AF%8D%E8%BF%87%E4%BA%8E%E7%AE%80%E5%8D%95.png)
+  * 输出结果会提示错误，经过官网的错误码查询发现是句子过于简单api可能无法提取![关键词输出错误码](https://github.com/Pjx759/API_Final/blob/master/photos/%E5%85%B3%E9%94%AE%E8%AF%8D%E9%94%99%E8%AF%AF%E7%A0%81.png)
 ### 四、API调用价格说明
 1. 语音识别api
 
