@@ -9,6 +9,8 @@
  |  领头的设计师 | 彭靖茜 |
  |  领头的开发者 | 彭靖茜 |
  |  领头的测试者 | 彭靖茜 |
+ | 版本迭代 |[迭代更新](https://gitee.com/pjx759/API_Fianl/compare/0305cd585b2e3db5db53306fe63cd328cbd857c2...146998058f1f84aa9f7bc0b4f051a3ffab27e1d0)；说明见文档尾部|
+ 
  
  > [20×20演示PPT](https://github.com/Pjx759/API_Final/blob/master/%E8%8D%AF%E8%AE%B0%E4%BD%8F20%C3%9720%E6%BC%94%E7%A4%BA.pptx)
 ## PRD设计
@@ -167,3 +169,22 @@
 
 > PRD文档中图片若不能正常显示，麻烦多刷新几次
 > 或[gitee仓库PRD文档](https://gitee.com/pjx759/API_Fianl/blob/master/README.md)
+## 迭代说明
+### [增量改进链接](https://gitee.com/pjx759/API_Fianl/compare/0305cd585b2e3db5db53306fe63cd328cbd857c2...146998058f1f84aa9f7bc0b4f051a3ffab27e1d0)
+### 增量说明
+1. 文档版本更新至2.0
+2. 文档格式修改
+3. 产品部分：
+  * 完善了价值宣言
+  * 增加产品市场、背景的描述分析表格
+  * 增加用户画像中的需求使用场景
+  * 增加了利益相关者图
+4. 原型部分
+  * 增加产品框架流程图
+  * 增加相关智能api的交互界面说明
+5. api输入输出部分
+  * 增加通用票据示例图片链接
+  * 增加api使用水平说明总结
+  * 增加关键词提取api错误示例说明及图片
+  * 增加api调用的商业可能性，例如价格方面说明
+6. 完善总结项目心得和感谢
